@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mahfujur036
-- 👀 I’m interested in mostly computer graphics and computer stuffs in general. In my professional life I am a graphic designer and digital artist. I am also a graduate of Computer Science and Engineering.
-- 🌱 I’m currently working as a System Engineer at bKash Ltd. On personal level I am developing a personal project website and learning Unreal Engine.
+- 🪪 I am a Computer Engineering graduate. I have a great love in learning the science and magic behind tech. I love people and have a great deal of interest in human-centered designs in technology. I also love art and graphics and am a part-time graphic designer and digital artist. 
+- 💼 I’m currently working as a System Engineer at bKash Ltd, the largest MFS organization of Bangladesh.
+- 🎮 I am an avid gamer and worked a little with game development during my university days. I still dream of developing a game on my own some day. 
 - 📫 For any queries you can reach me at mahfujur036@gmail.com.
 
 <!---
